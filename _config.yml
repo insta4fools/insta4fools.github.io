@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Insta4Fools
 description: Powerful Instagram bot
-github:
-  is_project_page: false
+github.is_project_page: false
