@@ -1,15 +1,14 @@
-# Insta4Fools
 ### Choose your language:
 <p>
-  <a href="/ru_index.md">
+  <a href="/ru_index">
     <img alt="Russian" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fa.png" width="32" height="32" align="center"> Русский
   </a>
   <br>
-  <a href="/en_index.md">
+  <a href="/en_index">
     <img alt="English" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png" width="32" height="32" align="center"> English
   </a>
   <br>
-  <a href="/ua_index.md">
+  <a href="/ua_index">
     <img alt="Ukrainian" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png" width="32" height="32" align="center"> Українська
   </a>
 </p>
