@@ -1,8 +1,8 @@
-<center><a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe"><img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64"/> <br><b>Download/Скачать</b><br>
-- Windows Vista x86<br>
-- .NET Framework 4.5.2<br>
-Online installer</a></center>
-
+<p align=center><a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe"><img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64"/> <br><b>Download/Скачать</b><br>
+Online Installer</a><br>
+Requirements/Требования:<br>
+- Windows Vista SP2 x86<br>
+- .NET Framework 4.5.2<br></p>
 
 ![image](https://user-images.githubusercontent.com/25367511/72204806-a3673980-3484-11ea-8f70-e5918ec68364.png)
 
