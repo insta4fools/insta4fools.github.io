@@ -1,5 +1,5 @@
-[EN: **Download (direct link, online installer)**](https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe)
-| [RU: **Скачать (прямая ссылка, онлайн установщик)**](https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe)
+<p><a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe"><img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64" align="middle"/> <b>Download/Скачать</b><br>Windows Vista x86<br>online installer</a></p>
+
 
 ![image](https://user-images.githubusercontent.com/25367511/72204806-a3673980-3484-11ea-8f70-e5918ec68364.png)
 
@@ -19,3 +19,7 @@ See [available issues](https://github.com/insta4fools/insta4fools_repo/issues) o
 
 ## Связь с разработчиками/Contact Developers 
 [Telegram](https://t.me/feel_the_dz3n)
+
+
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
