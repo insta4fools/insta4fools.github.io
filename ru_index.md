@@ -11,7 +11,7 @@
 Insta4Fools - это мощный бот для Instagram, который помогает выводить посты в тренды с помощью хэштэгов.
 
 ### Есть проблемы?
-[Посмотрите доступные](https://github.com/insta4fools/insta4fools_repo/issues) или [создайте новую](https://github.com/insta4fools/insta4fools_repo/issues/new).
+[Посмотрите доступные решения](https://github.com/insta4fools/insta4fools_repo/issues) или [проинформируйте нас](https://github.com/insta4fools/insta4fools_repo/issues/new).
 
 ### Контакты разработчиков
 [Telegram](https://t.me/feel_the_dz3n)
