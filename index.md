@@ -1,8 +1,9 @@
 <p align="center"><a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe"><img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64"/> <br><b>Download/Скачать</b><br>
 Online Installer</a><br>
 Requirements/Требования:<br>
-Windows Vista SP2 x86<br>
-.NET Framework 4.5.2<br><br>
+- Windows Vista SP2 x86<br>
+- .NET Framework 4.5.2<br><br>
+
 <a href="https://user-images.githubusercontent.com/25367511/72204806-a3673980-3484-11ea-8f70-e5918ec68364.png"><img alt="Insta4Fools Screenshot" src="https://user-images.githubusercontent.com/25367511/72204806-a3673980-3484-11ea-8f70-e5918ec68364.png"/></a></p>
 
 ***
@@ -19,7 +20,7 @@ Insta4Fools is a powerful bot for Instagram that helps to bring posts to trends 
 See [available issues](https://github.com/insta4fools/insta4fools_repo/issues) or [create a new one](https://github.com/insta4fools/insta4fools_repo/issues/new).
 
 ***
-## Contacts
+### Contacts
 [Telegram](https://t.me/feel_the_dz3n)
 
 ***
