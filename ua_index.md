@@ -1,4 +1,15 @@
 <p align="center">
+  <a href="/index">
+    <img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/i4f_crop.png" width="29" height="29" align="center"> Домашня сторінка
+  </a> | 
+  <a href="/screenshots">
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="29" height="29" align="center"> Скріншоти
+  </a>
+</p>
+
+***
+
+<p align="center">
 <a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe">
 <img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64"/> <br><b>Завантажити</b><br>
 Онлайн-встановлювач</a><br>
