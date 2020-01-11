@@ -1,4 +1,4 @@
-<p align=center><a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe"><img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64"/> <br><b>Download/Скачать</b><br>
+<p align="center"><a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe"><img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64"/> <br><b>Download/Скачать</b><br>
 Online Installer</a><br>
 Requirements/Требования:<br>
 Windows Vista SP2 x86<br>
