@@ -2,10 +2,8 @@
 Online Installer</a><br>
 Requirements/Требования:<br>
 - Windows Vista SP2 x86<br>
-- .NET Framework 4.5.2<br></p>
-
-![image](https://user-images.githubusercontent.com/25367511/72204806-a3673980-3484-11ea-8f70-e5918ec68364.png)
-
+- .NET Framework 4.5.2<br><br>
+<a href="https://user-images.githubusercontent.com/25367511/72204806-a3673980-3484-11ea-8f70-e5918ec68364.png"><img alt="Insta4Fools Screenshot" src="https://user-images.githubusercontent.com/25367511/72204806-a3673980-3484-11ea-8f70-e5918ec68364.png"/></a></p>
 
 ## Russian - Русский
 Insta4Fools - это мощный бот для Instagram, который помогает выводить посты в тренды с помощью хэштэгов.
