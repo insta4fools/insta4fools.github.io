@@ -1,11 +1,4 @@
-<p align="center"><a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe"><img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64"/> <br><b>Download/Скачать</b><br>
-Online Installer</a><br>
-Requirements:<br>
-- Windows Vista SP2 x86<br>
-- .NET Framework 4.5.2<br><br>
-</p>
-
-***
+# Insta4Fools
 ### Choose your language:
 <p>
   <a href="/ru_index.md">
@@ -19,6 +12,14 @@ Requirements:<br>
   <a href="/ua_index.md">
     <img alt="Ukrainian" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png" width="32" height="32" align="center"> Українська
   </a>
+</p>
+
+***
+<p align="center"><a href="https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe"><img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/down-arrow.png" alt="Download" width="64" height="64"/> <br><b>Download</b><br>
+Online Installer</a><br>
+Requirements:<br>
+- Windows Vista SP2 x86<br>
+- .NET Framework 4.5.2<br><br>
 </p>
 
 ***
