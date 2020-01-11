@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-title: <img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/i4f_crop.png" width="48" height="48"/> Insta4Fools
+title: <img src="https://raw.githubusercontent.com/insta4fools/insta4fools.github.io/master/i4f_crop.png" width="48" height="48" style=""/> Insta4Fools
 description: Powerful Instagram bot
 github.is_project_page: false
